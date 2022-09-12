@@ -1,2 +1,2 @@
 # gitlearning
-I am this is to learn
+This is to learn git and github
